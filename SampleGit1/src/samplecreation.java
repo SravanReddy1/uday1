@@ -5,7 +5,7 @@ public class samplecreation {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("github integration1");
+		System.out.println("github integration2");
 		
 	}
 
